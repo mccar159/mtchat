@@ -4,7 +4,7 @@
 *	Receives a line of input from a UDP client
 *	Returns an upper case version of the line to the client
 *
-*	@author: Michael Fahy
+*	@author: Connor McCarl
 @	version: 2.0
 */
 
