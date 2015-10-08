@@ -1,4 +1,5 @@
-# samples
-Sample Programs
-This respository contains sample programs that students can use as the starting point for programming assignments. 
-The first two sample programs are a simple UDP client and server pair.
+Author: Connor McCarl
+Date: 10/8/2015
+Project: Peer-to-peer chat
+
+This repository contains the code for a multi-threaded peer-to-peer chat program.
